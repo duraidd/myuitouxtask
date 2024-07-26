@@ -1,5 +1,5 @@
-To add products by this api:
-Method: POST
+# To add products by this api:
+## Method: POST
 API: http://localhost:9999/products
 Params:{
 "productName":"product-1" ,
