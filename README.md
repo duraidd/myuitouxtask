@@ -1,7 +1,7 @@
 ### To add products by this api:
 ### Method: POST
 ### API: http://localhost:9999/products
-Plain Text Params:{
+##### Params:{
 "productName":"product-1" ,
       "sku":"description" ,
       "sellingPrice":1,
@@ -12,7 +12,7 @@ Plain Text Params:{
       "productImg":""
 }
 
-type: 0   for Featured Products
-type: 1   for Top Rated Products
-type: 2   for Special Offers
-type: 3   for Bestsellers
+##### type: 0   for Featured Products
+##### type: 1   for Top Rated Products
+##### type: 2   for Special Offers
+##### type: 3   for Bestsellers
