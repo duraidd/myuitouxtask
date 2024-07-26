@@ -1,7 +1,7 @@
-# To add products by this api:
-## Method: POST
-API: http://localhost:9999/products
-Params:{
+### To add products by this api:
+### Method: POST
+### API: http://localhost:9999/products
+Plain Text Params:{
 "productName":"product-1" ,
       "sku":"description" ,
       "sellingPrice":1,
